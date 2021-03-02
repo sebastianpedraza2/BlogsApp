@@ -1,4 +1,4 @@
-package com.example.blogsapp.repository
+package com.example.blogsapp.repository.home
 
 import com.example.blogsapp.core.Resource
 import com.example.blogsapp.data.model.Post

@@ -1,4 +1,4 @@
-package com.example.blogsapp.data.remote
+package com.example.blogsapp.data.remote.home
 
 import android.util.Log
 import com.example.blogsapp.core.Resource
